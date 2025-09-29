@@ -1,0 +1,11 @@
+Date,Product,Region,Sales,Salesperson
+2025-01-01,Laptop,North,8000,John
+2025-01-03,Mobile,South,4500,Sarah
+2025-01-05,Tablet,East,6000,Alex
+2025-01-07,Laptop,West,7000,Emma
+2025-01-09,Mobile,North,3000,John
+2025-01-11,Tablet,South,5500,Sarah
+2025-01-13,Laptop,East,9000,Alex
+2025-01-15,Mobile,West,4000,Emma
+2025-01-17,Tablet,North,6200,John
+2025-01-19,Laptop,South,7500,Sarah
